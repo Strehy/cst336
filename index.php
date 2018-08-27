@@ -4,7 +4,8 @@
 // Press the 'Run' button on the top to start the web server,
 // then click the URL that is emitted to the Output tab of the console
 
-echo "Sean Trehy's CST 336 ";
+echo "<h1>Sean Trehy's CST 336 <h1>";
+//comment
 
 ?>
 </body>
