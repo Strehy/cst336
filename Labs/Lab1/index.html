@@ -14,7 +14,8 @@ in html
     <head>
         <meta Charset="utf-8"/>
         <title> Sean Trehy: Personal Website</title>
-        
+        <link href="css/styles.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
     </head>
 <!-- closing head -->
 
@@ -26,7 +27,7 @@ in html
         </header>
         <nav>
             <hr width="50%"/>
-            <a href="index.html">Home</a>
+            <a href="index.html" style="color:red">Home</a>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
@@ -34,21 +35,30 @@ in html
         <br /><br />
         
         <main>
-            <figure>
-                <img src="" alt="Picture of Sean Trehy"/>
+            <figure id="me">
+                <img src="img/sean_trehy_headshot.jpg" alt="Picture of Sean Trehy"width= 375 height = 375 style="transform:rotate(270deg)"
+                />
             </figure>
             
-            <div>
+            <div id="welcomeText">
                 Hello! <br />
                 <p> Thank you for visiting my portfolio website.</p>
                 <p> I'm a Computer Science major with a concentration in Networking and Security</p>
+                <p> Feel free to contact me!</p>
+                <p> "Don't count the days, make the days count." - Muhammad Ali</p>
+                <br /><br />
             </div>
         </main>
         
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
         <footer>
+            <hr> CST 336 Internet Programming. 2017&copy; Trehy <br />
+            <strong>Disclaimer:</strong> The information in this webpage is fictious. <br />
+            it is used for academic purpose only
+            <br /><br />
             
+            <img src="img/csumb_logo.jpg" alt="CSUMB logo" width=60 height=60 />
             
         </footer>
         <!-- closing footer -->
