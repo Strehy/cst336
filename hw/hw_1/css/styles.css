@@ -4,6 +4,10 @@ header, main, nav, footer {
     
 }
 
+hr {
+    width: 70%;
+}
+
 #top_bar:hover { 
     font-size:  2em;
     transition: .9s; 
