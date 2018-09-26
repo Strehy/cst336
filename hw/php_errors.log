@@ -1,0 +1,222 @@
+[26-Sep-2018 03:18:44 UTC] PHP Fatal error:  Call to undefined function displayCup() in /home/ubuntu/workspace/cst336/hw/hw_2/index.php on line 24
+[26-Sep-2018 03:18:44 UTC] PHP Stack trace:
+[26-Sep-2018 03:18:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:18:56 UTC] PHP Fatal error:  Call to undefined function displayCups() in /home/ubuntu/workspace/cst336/hw/hw_2/index.php on line 24
+[26-Sep-2018 03:18:56 UTC] PHP Stack trace:
+[26-Sep-2018 03:18:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:18:57 UTC] PHP Fatal error:  Call to undefined function displayCups() in /home/ubuntu/workspace/cst336/hw/hw_2/index.php on line 24
+[26-Sep-2018 03:18:57 UTC] PHP Stack trace:
+[26-Sep-2018 03:18:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:19:44 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 8
+[26-Sep-2018 03:19:44 UTC] PHP Stack trace:
+[26-Sep-2018 03:19:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:19:44 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:19:44 UTC] PHP   3. Cup->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:28
+[26-Sep-2018 03:21:14 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 8
+[26-Sep-2018 03:21:14 UTC] PHP Stack trace:
+[26-Sep-2018 03:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:21:14 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:21:14 UTC] PHP   3. Cup->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:28
+[26-Sep-2018 03:21:16 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 8
+[26-Sep-2018 03:21:16 UTC] PHP Stack trace:
+[26-Sep-2018 03:21:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:21:16 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:21:16 UTC] PHP   3. Cup->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:28
+[26-Sep-2018 03:23:42 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 8
+[26-Sep-2018 03:23:42 UTC] PHP Stack trace:
+[26-Sep-2018 03:23:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:23:42 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:23:42 UTC] PHP   3. Cup->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:28
+[26-Sep-2018 03:26:04 UTC] PHP Fatal error:  Cannot access empty property in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 8
+[26-Sep-2018 03:26:04 UTC] PHP Stack trace:
+[26-Sep-2018 03:26:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:26:04 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:26:04 UTC] PHP   3. Cup->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:28
+[26-Sep-2018 03:42:01 UTC] PHP Fatal error:  Call to undefined function buildAR() in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 26
+[26-Sep-2018 03:42:01 UTC] PHP Stack trace:
+[26-Sep-2018 03:42:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:42:01 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:42:04 UTC] PHP Fatal error:  Call to undefined function buildAR() in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 26
+[26-Sep-2018 03:42:04 UTC] PHP Stack trace:
+[26-Sep-2018 03:42:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:42:04 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:42:37 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 41
+[26-Sep-2018 03:42:37 UTC] PHP Stack trace:
+[26-Sep-2018 03:42:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:42:37 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:42:37 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:46:38 UTC] PHP Catchable fatal error:  Object of class Cup could not be converted to string in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 35
+[26-Sep-2018 03:46:38 UTC] PHP Stack trace:
+[26-Sep-2018 03:46:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:46:38 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:46:38 UTC] PHP   3. Game->buildAR() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:26
+[26-Sep-2018 03:47:19 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 42
+[26-Sep-2018 03:47:19 UTC] PHP Stack trace:
+[26-Sep-2018 03:47:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:47:19 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:47:19 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:47:25 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 42
+[26-Sep-2018 03:47:25 UTC] PHP Stack trace:
+[26-Sep-2018 03:47:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:47:25 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:47:25 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:47:41 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 42
+[26-Sep-2018 03:47:41 UTC] PHP Stack trace:
+[26-Sep-2018 03:47:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:47:41 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:47:41 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:48 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:48 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:48 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:48 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:51 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:51 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:51 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:51 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:52 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:52 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:52 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:52 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:53 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:53 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:53 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:53 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:54 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:54 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:54 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:54 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:54 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:54 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:54 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:54 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:55 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:55 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:55 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:55 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:57 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:57 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:57 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:57 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:48:58 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 43
+[26-Sep-2018 03:48:58 UTC] PHP Stack trace:
+[26-Sep-2018 03:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:48:58 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:48:58 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:49:21 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 03:49:21 UTC] PHP Stack trace:
+[26-Sep-2018 03:49:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:49:21 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:49:21 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:49:23 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 03:49:23 UTC] PHP Stack trace:
+[26-Sep-2018 03:49:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:49:23 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:49:23 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 03:49:24 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 03:49:24 UTC] PHP Stack trace:
+[26-Sep-2018 03:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 03:49:24 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 03:49:24 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:32:24 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:32:24 UTC] PHP Stack trace:
+[26-Sep-2018 05:32:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:32:24 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:32:24 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:09 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:09 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:09 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:09 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:10 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:10 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:10 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:10 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:11 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:11 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:11 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:11 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:12 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:12 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:12 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:12 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:14 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:14 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:14 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:14 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:15 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:15 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:15 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:15 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:15 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:15 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:15 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:15 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:16 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:16 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:16 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:16 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:33:16 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:33:16 UTC] PHP Stack trace:
+[26-Sep-2018 05:33:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:33:16 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:33:16 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:36:10 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:36:10 UTC] PHP Stack trace:
+[26-Sep-2018 05:36:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:36:10 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:36:10 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:36:11 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:36:11 UTC] PHP Stack trace:
+[26-Sep-2018 05:36:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:36:11 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:36:11 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 05:36:12 UTC] PHP Fatal error:  Call to a member function setWinner() on a non-object in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 44
+[26-Sep-2018 05:36:12 UTC] PHP Stack trace:
+[26-Sep-2018 05:36:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 05:36:12 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 05:36:12 UTC] PHP   3. Game->placeBall() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:27
+[26-Sep-2018 06:58:35 UTC] PHP Fatal error:  Call to undefined function placeBall() in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 38
+[26-Sep-2018 06:58:35 UTC] PHP Stack trace:
+[26-Sep-2018 06:58:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 06:58:35 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 06:58:35 UTC] PHP   3. Game->buildAR() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:26
+[26-Sep-2018 07:00:46 UTC] PHP Fatal error:  Call to undefined function placeBall() in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 38
+[26-Sep-2018 07:00:46 UTC] PHP Stack trace:
+[26-Sep-2018 07:00:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 07:00:46 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 07:00:46 UTC] PHP   3. Game->buildAR() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:26
+[26-Sep-2018 07:00:49 UTC] PHP Fatal error:  Call to undefined function placeBall() in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 38
+[26-Sep-2018 07:00:49 UTC] PHP Stack trace:
+[26-Sep-2018 07:00:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 07:00:49 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 07:00:49 UTC] PHP   3. Game->buildAR() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:26
+[26-Sep-2018 07:03:50 UTC] PHP Warning:  Creating default object from empty value in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 41
+[26-Sep-2018 07:03:50 UTC] PHP Stack trace:
+[26-Sep-2018 07:03:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 07:03:50 UTC] PHP   2. Game->__construct() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:24
+[26-Sep-2018 07:03:50 UTC] PHP   3. Game->startGame() /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php:26
+[26-Sep-2018 07:03:50 UTC] PHP Fatal error:  Call to undefined method Game::callCup() in /home/ubuntu/workspace/cst336/hw/hw_2/index.php on line 25
+[26-Sep-2018 07:03:50 UTC] PHP Stack trace:
+[26-Sep-2018 07:03:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 07:04:18 UTC] PHP Fatal error:  Call to undefined method Game::callCup() in /home/ubuntu/workspace/cst336/hw/hw_2/index.php on line 25
+[26-Sep-2018 07:04:18 UTC] PHP Stack trace:
+[26-Sep-2018 07:04:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 07:55:41 UTC] PHP Fatal error:  Call to undefined function showFood() in /home/ubuntu/workspace/cst336/hw/hw_2/inc/functions.php on line 62
+[26-Sep-2018 07:55:41 UTC] PHP Stack trace:
+[26-Sep-2018 07:55:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
+[26-Sep-2018 07:55:41 UTC] PHP   2. selectFood() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:26

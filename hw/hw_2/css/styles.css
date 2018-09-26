@@ -1,0 +1,51 @@
+
+#main, header, #intro, footer {
+    
+    text-align: center;  
+    width:800px;
+    margin: auto;
+    
+}
+
+header, footer {
+    background-color:#999a9b;
+    height: auto;
+}
+
+body{
+    background-color: #5a7196
+}
+
+header{
+    text-decoration: underline;
+    text-shadow: 2px 2px white;
+    
+}
+
+#suggestion {
+    text-align: center;
+}
+
+#foods {
+    
+    border-color: black;
+    border-style: groove;
+    width:400px;
+    background-color: white;
+    margin: auto;
+}
+
+#intro {
+    text-decoration: underline;
+}
+
+#main {
+    border-style: double;
+    border-width: thick;
+    background-color: lightgray;
+}
+
+#item1, #item2{
+    padding-top: 10px;
+    padding-right: 20px;
+}
