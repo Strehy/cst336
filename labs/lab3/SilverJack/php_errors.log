@@ -1,0 +1,12 @@
+[06-Oct-2018 22:57:03 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 19
+[06-Oct-2018 22:57:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 25
+[06-Oct-2018 22:58:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 23
+[06-Oct-2018 22:58:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 23
+[06-Oct-2018 23:01:48 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 40
+[06-Oct-2018 23:03:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 58
+[06-Oct-2018 23:03:29 UTC] PHP Stack trace:
+[06-Oct-2018 23:03:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/silverjack/silverjack/testing.php:0
+[06-Oct-2018 23:03:29 UTC] PHP   2. play() /home/ubuntu/workspace/silverjack/silverjack/testing.php:120
+[06-Oct-2018 23:03:29 UTC] PHP   3. displayPlayer() /home/ubuntu/workspace/silverjack/silverjack/testing.php:7
+[06-Oct-2018 23:03:29 UTC] PHP   4. getHand() /home/ubuntu/workspace/silverjack/silverjack/testing.php:39
+[06-Oct-2018 23:34:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/silverjack/silverjack/testing.php on line 7
