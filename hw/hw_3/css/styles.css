@@ -1,0 +1,49 @@
+#quiz {
+    border-style: groove;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding: 15px;
+    width: 655px;
+    height: auto;
+    margin: auto;
+    background-color: #e3e4e5;
+}
+
+header {
+    text-align: center;
+    text-decoration: underline; 
+    background-color: #e3e4e5;
+    width: 655px;
+    margin: auto;
+    border-style: groove;
+}
+
+#submit{
+    text-align: center;
+}
+
+body {
+    background-image: url("/cst336/hw/hw_3/img/usa_flag.jpg");
+}
+
+#output {
+    text-align: center;
+    background-color: #e3e4e5;
+    width: 655px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #e3e4e5;
+    width: 655px;
+    border-style:groove;
+}
+
+h2 {
+    color: red;
+}
+
