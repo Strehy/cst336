@@ -6,10 +6,8 @@
         q4: 1st
         q5: 11/06/2018
 */
-
     //File containing website logic
     include "functions.php";
-
     session_start();
     
     //Populates the dropdown menu in Q4
@@ -55,10 +53,10 @@
                 
                 <!-- Question 3 -->
                 <strong>Q3: Which of the following cities are state capitals?</strong><br />
-                <input type="checkbox" name="q3_1" value="Phoenix" <?php //setQ3("Phoenix"); ?>/>Phoenix<br />
-                <input type="checkbox" name="q3_2" value="Detroit" <?php //setQ3("Detroit"); ?>/>Detroit<br />
-                <input type="checkbox" name="q3_3" value="San Francisco" <?php //setQ3("San Francisco"); ?>/>San Francisco<br />
-                <input type="checkbox" name="q3_4" value="Denver" <?php //setQ3("Denver"); ?>/>Denver<br />
+                <input type="checkbox" name="q3_1" value="Phoenix" <?= setQ3("Phoenix"); ?>/>Phoenix<br />
+                <input type="checkbox" name="q3_2" value="Detroit" <?= setQ3("Detroit"); ?>/>Detroit<br />
+                <input type="checkbox" name="q3_3" value="San Francisco" <?= setQ3("San Francisco"); ?>/>San Francisco<br />
+                <input type="checkbox" name="q3_4" value="Denver" <?= setQ3("Denver"); ?>/>Denver<br />
                 <hr>
                 <br /><br />
                 
@@ -73,13 +71,13 @@
                 
                 <!-- Question 5 -->
                 <strong>Q5: When is election day in 2018? </strong>
-                <input type="date" name="q5" <?php //setQ5(); ?>>
+                <input type="date" name="q5" <?= setQ5(); ?>>
                 <hr>
                 <br /><br />
                 
                 <!-- Buttons -->
                 <div id="submit">
-                    <input type="submit" value="Submit"/>
+                    <input type="submit" value="Submit" name= "Submit"/>
                     <input type="button" value="Reset" onclick="reset();"
                 </div>
             </form>

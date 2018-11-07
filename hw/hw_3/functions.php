@@ -1,5 +1,4 @@
 <?php
-
     session_start();
     
     //Ensure all questions have been answered, if not it displays an error message and returns false
@@ -11,7 +10,7 @@
         $setQ4 = false;
         $setQ5 = false;
         
-        if(isset($_GET['submit'])){
+        if(isset($_GET['Submit'])){
         
             //Check Q1
             if(!isset($_GET['q1'])){
@@ -201,5 +200,4 @@
         }
         
     }
-
 ?>

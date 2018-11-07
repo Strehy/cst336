@@ -1,0 +1,109 @@
+#body2{
+    text-align:center;
+    background-color: #98AFC7;
+}
+#background1{
+    background-image: url("../img/pic2.jpg");
+    font-family: serif;
+}
+ul {
+    font-size: 22px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+    
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: gray;
+}
+#forms{
+    text-align: center;
+     font-size: 22px;
+
+}
+#b1{
+    width: 100px;
+    height: 30px;
+    font-family: serif;
+    font-size: 1em;
+    border-radius: 15px;
+    background-color: gray;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+}
+#b1:hover {
+    background-color: white; /* Green */
+    color: gray;
+}
+#b2{
+    width: 100px;
+    height: 30px;
+    font-family: serif;
+    font-size: 1em;
+    border-radius: 15px;
+}
+#b2:focus{
+    
+    border: 2px solid green;
+    background-color: gray;
+
+}
+
+#output {
+    text-align: center;
+    margin: auto;
+}
+#explanation_table, #explanation_tr, #explanation_th {
+    border: 3px solid black;
+}
+#genre_explain {
+    text-align: center;
+}
+
+#explain_body{
+        background-image: url("../img/articBackground2.jpg");
+        background-size: 100%
+
+}
+#linkBack {
+    text-align: center;
+}
+#out_table, th, td{
+    border: 1px solid black;
+    background-color: #f9f9f9;
+    padding: 15px;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+#info_body{
+    background-image: url("../img/ocean.jpg");
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    
+}
+.table{
+    font-size: 1.5em;
+}

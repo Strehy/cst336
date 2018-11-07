@@ -33,3 +33,37 @@
 [24-Sep-2018 19:11:44 UTC] PHP   3. displayRatings() /home/ubuntu/workspace/cst336/practice/practice_3/reviews.php:25
 [24-Sep-2018 19:11:44 UTC] PHP   4. bar_graph() /home/ubuntu/workspace/cst336/practice/practice_3/inc/charts.php:30
 [24-Sep-2018 19:11:44 UTC] PHP   5. imagepng() /home/ubuntu/workspace/cst336/practice/practice_3/inc/charts.php:71
+[08-Oct-2018 19:51:39 UTC] PHP Fatal error:  Call to undefined function validPassSize() in /home/ubuntu/workspace/cst336/practice/practice5/index.php on line 12
+[08-Oct-2018 19:51:39 UTC] PHP Stack trace:
+[08-Oct-2018 19:51:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/practice5/index.php:0
+[08-Oct-2018 21:59:58 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/practice/zodiac/index.php on line 11
+[15-Oct-2018 19:22:07 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php on line 7
+[15-Oct-2018 19:22:07 UTC] PHP Stack trace:
+[15-Oct-2018 19:22:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php:0
+[15-Oct-2018 19:22:07 UTC] PHP   2. selectMonth() /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php:26
+[15-Oct-2018 19:22:07 UTC] PHP Warning:  Illegal offset type in /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php on line 7
+[15-Oct-2018 19:22:07 UTC] PHP Stack trace:
+[15-Oct-2018 19:22:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php:0
+[15-Oct-2018 19:22:07 UTC] PHP   2. selectMonth() /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php:26
+[24-Oct-2018 01:54:22 UTC] PHP Fatal error:  Call to undefined function checkInputs() in /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php on line 121
+[24-Oct-2018 01:54:22 UTC] PHP Stack trace:
+[24-Oct-2018 01:54:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/midterm_practice/midterm_practice1.php:0
+[24-Oct-2018 02:45:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php on line 12
+[24-Oct-2018 02:45:02 UTC] PHP Stack trace:
+[24-Oct-2018 02:45:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php:0
+[24-Oct-2018 02:45:02 UTC] PHP   2. p1() /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php:31
+[24-Oct-2018 02:47:11 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php on line 12
+[24-Oct-2018 02:47:11 UTC] PHP Stack trace:
+[24-Oct-2018 02:47:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php:0
+[24-Oct-2018 02:47:11 UTC] PHP   2. p1() /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php:71
+[24-Oct-2018 02:47:49 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php on line 12
+[24-Oct-2018 02:47:49 UTC] PHP Stack trace:
+[24-Oct-2018 02:47:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php:0
+[24-Oct-2018 02:47:49 UTC] PHP   2. p1() /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php:71
+[24-Oct-2018 03:08:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/practice/midterm_practice/minterm_practice2.php on line 98
+[29-Oct-2018 19:34:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESC' at line 1' in /home/ubuntu/workspace/cst336/practice/practice7/index.php:54
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/practice/practice7/index.php(54): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/practice/practice7/index.php(117): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/practice/practice7/index.php on line 54

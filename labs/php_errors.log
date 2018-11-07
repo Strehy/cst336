@@ -123,3 +123,208 @@
 [20-Sep-2018 20:34:39 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 16
 [20-Sep-2018 20:34:39 UTC] PHP Stack trace:
 [20-Sep-2018 20:34:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[26-Sep-2018 22:56:54 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 60
+[26-Sep-2018 22:56:54 UTC] PHP Stack trace:
+[26-Sep-2018 22:56:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[03-Oct-2018 21:19:08 UTC] PHP Fatal error:  Call to undefined function formIsValid() in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 28
+[03-Oct-2018 21:19:08 UTC] PHP Stack trace:
+[03-Oct-2018 21:19:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[05-Oct-2018 22:43:04 UTC] PHP Fatal error:  Call to undefined function formIsValid() in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 37
+[05-Oct-2018 22:43:04 UTC] PHP Stack trace:
+[05-Oct-2018 22:43:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Oct-2018 03:09:26 UTC] PHP Warning:  include(fucntions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 2
+[10-Oct-2018 03:09:26 UTC] PHP Stack trace:
+[10-Oct-2018 03:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[10-Oct-2018 03:09:26 UTC] PHP Warning:  include(): Failed opening 'fucntions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 2
+[10-Oct-2018 03:09:26 UTC] PHP Stack trace:
+[10-Oct-2018 03:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[10-Oct-2018 03:09:26 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 51
+[10-Oct-2018 03:09:26 UTC] PHP Stack trace:
+[10-Oct-2018 03:09:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[10-Oct-2018 03:09:48 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 51
+[10-Oct-2018 03:09:48 UTC] PHP Stack trace:
+[10-Oct-2018 03:09:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[10-Oct-2018 03:24:48 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 56
+[10-Oct-2018 03:24:48 UTC] PHP Stack trace:
+[10-Oct-2018 03:24:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[10-Oct-2018 22:21:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:21:51 UTC] PHP Stack trace:
+[10-Oct-2018 22:21:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:21:51 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:40
+[10-Oct-2018 22:21:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:21:52 UTC] PHP Stack trace:
+[10-Oct-2018 22:21:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:21:52 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:40
+[10-Oct-2018 22:21:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:21:53 UTC] PHP Stack trace:
+[10-Oct-2018 22:21:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:21:53 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:40
+[10-Oct-2018 22:22:29 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:22:29 UTC] PHP Stack trace:
+[10-Oct-2018 22:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:22:29 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:40
+[10-Oct-2018 22:23:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:23:05 UTC] PHP Stack trace:
+[10-Oct-2018 22:23:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:23:05 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:42
+[10-Oct-2018 22:23:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:23:07 UTC] PHP Stack trace:
+[10-Oct-2018 22:23:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:23:07 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:42
+[10-Oct-2018 22:23:08 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 12
+[10-Oct-2018 22:23:08 UTC] PHP Stack trace:
+[10-Oct-2018 22:23:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[10-Oct-2018 22:23:08 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab6/index.php:42
+[15-Oct-2018 22:33:14 UTC] PHP Fatal error:  Call to undefined function displaySearchResults() in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 76
+[15-Oct-2018 22:33:14 UTC] PHP Stack trace:
+[15-Oct-2018 22:33:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab6/index.php:0
+[21-Oct-2018 03:08:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab5/functions.php on line 77
+[21-Oct-2018 03:08:08 UTC] PHP Stack trace:
+[21-Oct-2018 03:08:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[21-Oct-2018 03:08:55 UTC] PHP Fatal error:  Call to undefined function isiset() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 12
+[21-Oct-2018 03:08:55 UTC] PHP Stack trace:
+[21-Oct-2018 03:08:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0
+[26-Oct-2018 21:32:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 21:33:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ottermart.om_products' doesn't exist' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:44
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(44): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(90): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 44
+[26-Oct-2018 23:03:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/labs/lab6/productHistory.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/productHistory.php(17): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/productHistory.php on line 17
+[27-Oct-2018 04:18:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(64): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(119): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 64
+[27-Oct-2018 04:24:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(64): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(119): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 64
+[27-Oct-2018 04:28:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'category' in 'where clause'' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(64): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(119): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 64
+[27-Oct-2018 04:31:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'priceName' in 'order clause'' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:64
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(64): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(119): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 64
+[27-Oct-2018 04:43:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%ball%
+                          OR productDescription LIKE %ball%' at line 1' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:65
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(65): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(120): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 65
+[27-Oct-2018 04:44:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%%
+                          OR productDescription LIKE %%' at line 1' in /home/ubuntu/workspace/cst336/labs/lab6/index.php:65
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab6/index.php(65): PDOStatement->execute(Array)
+#1 /home/ubuntu/workspace/cst336/labs/lab6/index.php(120): displaySeachResults()
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab6/index.php on line 65
+[29-Oct-2018 21:42:46 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/lab7/loginProcess.php on line 5
+[29-Oct-2018 21:42:46 UTC] PHP Stack trace:
+[29-Oct-2018 21:42:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/loginProcess.php:0
+[29-Oct-2018 22:08:56 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/lab7/admin.php on line 10
+[29-Oct-2018 22:08:56 UTC] PHP Stack trace:
+[29-Oct-2018 22:08:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/admin.php:0
+[29-Oct-2018 22:09:51 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 6
+[29-Oct-2018 22:09:51 UTC] PHP Stack trace:
+[29-Oct-2018 22:09:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/admin.php:0
+[29-Oct-2018 22:09:51 UTC] PHP   2. displayAllProducts() /home/ubuntu/workspace/cst336/labs/lab7/admin.php:36
+[29-Oct-2018 22:10:39 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 22:10:39 UTC] PHP Stack trace:
+[29-Oct-2018 22:10:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:10:39 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:21
+[29-Oct-2018 22:13:47 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 22:13:47 UTC] PHP Stack trace:
+[29-Oct-2018 22:13:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:13:47 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:21
+[29-Oct-2018 22:13:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 22:13:52 UTC] PHP Stack trace:
+[29-Oct-2018 22:13:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:13:52 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:21
+[29-Oct-2018 22:13:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 24
+[29-Oct-2018 22:13:52 UTC] PHP Stack trace:
+[29-Oct-2018 22:13:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:13:52 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:21
+[29-Oct-2018 22:15:46 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php on line 4
+[29-Oct-2018 22:15:46 UTC] PHP Stack trace:
+[29-Oct-2018 22:15:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:15:48 UTC] PHP Fatal error:  Call to undefined function startConnection() in /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php on line 4
+[29-Oct-2018 22:15:48 UTC] PHP Stack trace:
+[29-Oct-2018 22:15:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:16:38 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 23
+[29-Oct-2018 22:16:38 UTC] PHP Stack trace:
+[29-Oct-2018 22:16:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:0
+[29-Oct-2018 22:16:38 UTC] PHP   2. getCategories() /home/ubuntu/workspace/cst336/labs/lab7/addProduct.php:35
+[29-Oct-2018 22:34:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php on line 6
+[29-Oct-2018 22:34:32 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php on line 3
+[29-Oct-2018 22:34:32 UTC] PHP Stack trace:
+[29-Oct-2018 22:34:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php:0
+[29-Oct-2018 22:34:32 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php on line 3
+[29-Oct-2018 22:34:32 UTC] PHP Stack trace:
+[29-Oct-2018 22:34:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php:0
+[29-Oct-2018 22:34:32 UTC] PHP Fatal error:  Call to undefined function getProductInfo() in /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php on line 6
+[29-Oct-2018 22:34:32 UTC] PHP Stack trace:
+[29-Oct-2018 22:34:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php:0
+[29-Oct-2018 22:34:59 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/cst336/labs/lab7/inc/functions.php on line 37
+[29-Oct-2018 22:34:59 UTC] PHP Stack trace:
+[29-Oct-2018 22:34:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php:0
+[29-Oct-2018 22:34:59 UTC] PHP   2. getProductInfo() /home/ubuntu/workspace/cst336/labs/lab7/updateProduct.php:6
+[02-Nov-2018 22:01:13 UTC] PHP Fatal error:  Call to undefined function isiset() in /home/ubuntu/workspace/cst336/labs/lab5/scart.php on line 12
+[02-Nov-2018 22:01:13 UTC] PHP Stack trace:
+[02-Nov-2018 22:01:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/scart.php:0

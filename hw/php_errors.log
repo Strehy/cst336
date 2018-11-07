@@ -220,3 +220,240 @@
 [26-Sep-2018 07:55:41 UTC] PHP Stack trace:
 [26-Sep-2018 07:55:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:0
 [26-Sep-2018 07:55:41 UTC] PHP   2. selectFood() /home/ubuntu/workspace/cst336/hw/hw_2/index.php:26
+[17-Oct-2018 05:18:45 UTC] PHP Fatal error:  Call to undefined function testOutputs() in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 88
+[17-Oct-2018 05:18:45 UTC] PHP Stack trace:
+[17-Oct-2018 05:18:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 05:43:18 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 93
+[17-Oct-2018 05:43:18 UTC] PHP Stack trace:
+[17-Oct-2018 05:43:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:30 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:30 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:30 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:30 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:30 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:30 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:30 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:30 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:30 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:39 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:39 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:39 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:39 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:39 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:39 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:39 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:39 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:39 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:42 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:42 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:42 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:42 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:42 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:42 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:42 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:42 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:42 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:44 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:44 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:44 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:44 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:44 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:44 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:44 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:44 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:44 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:45 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:45 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:45 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:45 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:45 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:45 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:45 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:45 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:45 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:46 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:46 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:46 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:46 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:46 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:46 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:46 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:46 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:46 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:46 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:46 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:46 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:46 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:46 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:46 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:46 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:46 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:46 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:47 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:47 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:47 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:48 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:48 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:48 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:48 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:48 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:48 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:48 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:48 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:48 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:48 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:48 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:48 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:48 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:48 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:48 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:48 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:48 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:48 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:50 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:50 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:50 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:50 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:50 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:50 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:50 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:50 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:50 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:52 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:52 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:52 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:52 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:52 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:52 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:52 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:52 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:52 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:52 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:52 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:52 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:52 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:52 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:52 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:52 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:52 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:52 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:53 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:53 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:53 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:53 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:53 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:53 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:53 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:53 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:53 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:53 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:53 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:53 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:53 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:53 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:53 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:53 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:53 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:53 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 07:01:54 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 57 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:54 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:54 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:57
+[17-Oct-2018 07:01:54 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 58 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:54 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:54 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:58
+[17-Oct-2018 07:01:54 UTC] PHP Warning:  Missing argument 1 for setQ3(), called in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 59 and defined in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 151
+[17-Oct-2018 07:01:54 UTC] PHP Stack trace:
+[17-Oct-2018 07:01:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 07:01:54 UTC] PHP   2. setQ3() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:59
+[17-Oct-2018 21:00:01 UTC] PHP Fatal error:  Call to undefined function setQ2() in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 52
+[17-Oct-2018 21:00:01 UTC] PHP Stack trace:
+[17-Oct-2018 21:00:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 21:00:04 UTC] PHP Fatal error:  Call to undefined function setQ2() in /home/ubuntu/workspace/cst336/hw/hw_3/index.php on line 52
+[17-Oct-2018 21:00:04 UTC] PHP Stack trace:
+[17-Oct-2018 21:00:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 21:43:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 210
+[17-Oct-2018 21:43:14 UTC] PHP Stack trace:
+[17-Oct-2018 21:43:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 21:46:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 78
+[17-Oct-2018 21:46:18 UTC] PHP Stack trace:
+[17-Oct-2018 21:46:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
+[17-Oct-2018 21:46:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/hw/hw_3/functions.php on line 78
+[17-Oct-2018 21:46:19 UTC] PHP Stack trace:
+[17-Oct-2018 21:46:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw_3/index.php:0
