@@ -1,7 +1,11 @@
 <?php
 session_start();
+
+
+
 include '../../inc/dbConnection.php';
-$db = getDatabaseConnection("ottermart");
+$dbConn = startConnection("ottermart");
+
 include 'inc/functions.php';
 validateSession();
 
