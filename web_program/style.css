@@ -1,0 +1,16 @@
+#search {
+    margin: auto;
+    border: solid black;
+    display: inline-block;
+    margin-left: 400px;
+}
+#title, #output, nav{
+    text-align: center
+}
+
+#admin {
+    margin: auto;
+    display: inline-block;
+    margin-left: 500px;
+}
+
